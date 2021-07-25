@@ -64,7 +64,7 @@ const addlist = (backup) => {
 
         })
 
-        
+
         //delete button
         const delBtn = document.createElement('button')
         delBtn.setAttribute('class', 'text-white  group-hover:bg-red-300 group-hover:text-black pr-3 pl-3  text-lg rounded-lg transform hover:-translate-y-1 hover:scale-100 transition duration-500  rounded-xl')
